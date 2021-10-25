@@ -1,14 +1,13 @@
 ### Hi there, I'm Gabriel 👋
 
-Here are my Github stats<br>
 ![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10)
 
-My favorite DevOps projects<br>
+#### My favorite DevOps projects
 ![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=azure-dockeragent)
 ![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=azure-cicd-pipeline)
 
-My favorite Web projects<br>
+#### My favorite Web projects
 ![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=inshape)
 ![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=flightbeat)
 ![](https://github-readme-stats.vercel.app/api/pin?username=bluebox-insa&repo=bluebox)
