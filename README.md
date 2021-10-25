@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true)
 
 #### My favorite DevOps projects
 ![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=azure-dockeragent)
