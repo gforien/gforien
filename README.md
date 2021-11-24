@@ -4,6 +4,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
 
 #### My favorite DevOps projects
+[![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=terraform-examples)](https://github.com/gforien/terraform-examples)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=create-aws-website)](https://github.com/gforien/create-aws-website)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=azure-cicd-pipeline)](https://github.com/gforien/azure-cicd-pipeline)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=docker-nginx-reverse-proxy)](https://github.com/gforien/docker-nginx-reverse-proxy)
