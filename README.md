@@ -1,4 +1,9 @@
-### Hi there, I'm Gabriel 👋
+### Bonjour, je m'appelle Gabriel 👋
+
+<!-- ⚗ Je me forme actuellement sur différents sujets
+- Provisionner des resources sur AWS avec **Terraform**
+- Déployer sur ces clusters des applications containerisées avec Docker, Compose, Swarm, Kubenetes
+- Automatiser la mise en production avec des pipelines CI/CD Gitlab -->
 
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
@@ -9,6 +14,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=azure-cicd-pipeline)](https://github.com/gforien/azure-cicd-pipeline)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=docker-nginx-reverse-proxy)](https://github.com/gforien/docker-nginx-reverse-proxy)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=gforien&repo=docker-voting-app)](https://github.com/gforien/docker-voting-app)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=cicd-petshop&repo=cicd)](https://github.com/cicd-petshop/cicd) -->
 
 #### My favorite Web projects
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=inshape)](https://github.com/gforien/inshape)
