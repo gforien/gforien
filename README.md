@@ -1,4 +1,19 @@
-### Enchanté, moi c'est Gabriel 👋
+### Bonjour 👋
+
+### Mon CV en 30 secondes
+Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon en spécialité Télécommunications et Services.
+
+Ma formation est divisée également en 3 tiers:
+- systèmes de communication (traitement du signal, probabilités bayésiennes, OFDM)
+- réseaux (connaissances théoriques: Eternet 802.3, Wi-Fi 802.11, TCP/IP, IPv6, multicast, protocoles de routage, BGP, RIP, OSPF, MPLS, LAN, WAN, QoS, VoIP IPsec, 2G - GSM, 3G - UMTS, 4G - LTE, 5G, slicing, chaînes de Markov, théorie des files d'attentes) et (connaissances pratiques: TPs en salle réseau, routeurs Cisco, Wireshark, gns3)
+- informatique (connaissances théoriques: Algorithmes et structures de données, notation O, machine à état, liste chainées, hashmap, dijkstra, bellman-ford, A*, RPC, systèmes distribués, transactions, horloge de Lamport, Paxos, protocoles de consensus, Raft, peer-to-peer, scrapping, ELK, PageRank, blockchain)
+
+Mes passions:
+- la boxe 🥊
+- le japonais ㊗
+- la randonnée 🏔
+
+Passionnate about MATLAB simulation, complex systems, and japanese.
 
 <!-- ⚗ Je me forme actuellement sur différents sujets
 - Provisionner des resources sur AWS avec **Terraform**
