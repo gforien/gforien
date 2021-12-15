@@ -15,7 +15,7 @@ Formations en cours:
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
 
-#### Quelques PoC Cloud/DevOps
+#### Quelques projets Cloud/DevOps
 [![](https://github-readme-stats.vercel.app/api/pin?&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&username=gforien&repo=reddit-assignment)](https://github.com/gforien/reddit-assignment)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=terraform-full-ec2)](https://github.com/gforien/terraform-full-ec2)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=create-aws-website)](https://github.com/gforien/create-aws-website)
@@ -23,13 +23,13 @@ Formations en cours:
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=docker-nginx-reverse-proxy)](https://github.com/gforien/docker-nginx-reverse-proxy)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=docker-voting-app)](https://github.com/gforien/docker-voting-app)
 
-#### Mes projets Web favoris
+#### Quelques projets libres
+[![](https://github-readme-stats.vercel.app/api/pin?username=bluebox-insa&repo=bluebox)](https://github.com/bluebox-insa/bluebox)
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=inshape)](https://github.com/gforien/inshape)
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=flightbeat)](https://github.com/gforien/flightbeat)
-[![](https://github-readme-stats.vercel.app/api/pin?username=bluebox-insa&repo=bluebox)](https://github.com/bluebox-insa/bluebox)
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=tcchat)](https://github.com/gforien/tcchat)
 
-#### Mes autres projets favoris
+#### Quelques projets scolaires
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=os-from-scratch)](https://github.com/gforien/os-from-scratch)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=double-pendulum)](https://github.com/gforien/double-pendulum)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=rpc-generator)](https://github.com/gforien/rpc-generator)
