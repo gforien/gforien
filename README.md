@@ -1,6 +1,20 @@
 ### Bonjour 👋
 
-Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.
+Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
+J'ai suivi la spécialité `Télécommunications et Services` qui couvre des enseignement variés autour de 3 piliers:
+- **systèmes de communication**<br>
+Exemple typique: Analyse des taux d'erreur binaires pour un décodeur, sur un canal large-bande avec fading sélectif<br>
+Source: *Sadough, Seyed & Duhamel, P. Duhamel (2007). On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect Channel State Information.*
+<img src="https://user-images.githubusercontent.com/7701186/146216539-64c2b105-f1b4-4362-98a2-49e06e7b14d8.png" style="width:500px">
+
+- **réseaux**<br>
+Exemple typique: Architecture du réseau 4G (LTE): utilisateur, réseau d'accès, et réseau coeur<br>
+Source: *Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of Building Height Interference Dependence in UMTS.*
+<img src="https://user-images.githubusercontent.com/7701186/146220151-a1e9fd0d-f4a4-4e07-a380-6e23698e9c5b.png" style="width:500px">
+
+- **informatique**<br>
+  Voir mes projets académiques ci-dessous ⬇⬇
+
 
 Mes passions:
 - la boxe 🥊
@@ -39,6 +53,9 @@ Formations en cours:
 
 
 <!--
+![](https://www.researchgate.net/profile/Nariman-Farsad/publication/259457178/figure/fig15/AS:669706377777171@1536681851883/Block-diagram-of-a-typical-communication-system-doi101371-journalpone0082935g001.png)
+
+
 Projets non-affichés
 [![](https://github-readme-stats.vercel.app/api/pin?theme=prussian&username=cicd-petshop&repo=cicd)](https://github.com/cicd-petshop/cicd)
 [![](https://github-readme-stats.vercel.app/api/pin?username=bluebox-insa&repo=bluebox-android-app)](https://github.com/bluebox-insa/bluebox-android-app)
@@ -50,7 +67,7 @@ Projets non-affichés
 - Automatiser la mise en production avec des pipelines CI/CD Gitlab
 ----------------------------
 Ma formation est divisée également en 3 tiers:
-- systèmes de communication (traitement du signal, probabilités bayésiennes, OFDM)
+- systèmes de communication (traitement du signal, canal de communication, théorie de l'information, encodage, codage de canal, modulation, correction d'erreur, probabilités bayésiennes, OFDM)
 - réseaux (connaissances théoriques: Eternet 802.3, Wi-Fi 802.11, TCP/IP, IPv6, multicast, protocoles de routage, BGP, RIP, OSPF, MPLS, LAN, WAN, QoS, VoIP IPsec, 2G - GSM, 3G - UMTS, 4G - LTE, 5G, slicing, chaînes de Markov, théorie des files d'attentes) et (connaissances pratiques: TPs en salle réseau, routeurs Cisco, Wireshark, gns3)
 - informatique (connaissances théoriques: Algorithmes et structures de données, notation O, machine à état, liste chainées, hashmap, dijkstra, bellman-ford, A*, RPC, systèmes distribués, transactions, horloge de Lamport, Paxos, protocoles de consensus, Raft, peer-to-peer, scrapping, ELK, PageRank, blockchain)
 ----------------------------
