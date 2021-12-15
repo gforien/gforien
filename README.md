@@ -3,7 +3,7 @@
 Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
 J'ai suivi la spécialité `Télécommunications et Services` qui couvre des enseignement variés autour de 3 piliers:
 - **systèmes de communication**<br>
-Exemple typique: Analyse des taux d'erreur binaires pour un décodeur, sur un canal large-bande avec fading sélectif<br>
+Exemple typique: Analyse des taux d'erreur binaires pour un décodeur, sur un canal de Rayleigh avec fading sélectif<br>
 Source: *Sadough, Seyed & Duhamel, P. Duhamel (2007). On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect Channel State Information.*
 <img src="https://user-images.githubusercontent.com/7701186/146216539-64c2b105-f1b4-4362-98a2-49e06e7b14d8.png" style="width:500px">
 
