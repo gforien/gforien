@@ -4,7 +4,7 @@ Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyo
 
 Mes passions:
 - la boxe 🥊
-- le japonais ㊗
+- le japonais 🈳
 - la randonnée 🏔
 
 Formations en cours:
