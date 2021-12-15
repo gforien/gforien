@@ -15,6 +15,7 @@ Source: *Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of 
 - **informatique**<br>
   Voir mes [projets académiques](https://github.com/gforien/gforien/blob/main/README.md#quelques-projets-acad%C3%A9miques) ci-dessous ⬇⬇
 
+En particulier, je me suis récemment intéressé au métiers d'architecte cloud et d'administrateur système (aujourd'hui responsable Ops), pour répondre aux problématiques de passage au Cloud, de high-availability (HA), scalability, d'intégration et de déploiement continu (CI/CD).
 
 Mes passions:
 - la boxe 🥊
