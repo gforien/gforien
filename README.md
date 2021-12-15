@@ -13,7 +13,7 @@ Source: *Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of 
 <img src="https://user-images.githubusercontent.com/7701186/146220151-a1e9fd0d-f4a4-4e07-a380-6e23698e9c5b.png" style="width:500px">
 
 - **informatique**<br>
-  Voir mes projets académiques ci-dessous ⬇⬇
+  Voir mes [projets académiques](https://github.com/gforien/gforien/blob/main/README.md#quelques-projets-acad%C3%A9miques) ci-dessous ⬇⬇
 
 
 Mes passions:
