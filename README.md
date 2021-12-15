@@ -1,24 +1,31 @@
 ### Bonjour 👋
 
 ### Mon CV en 30 secondes
-Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon en spécialité Télécommunications et Services.
+Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon, que j'ai intégré après un bac scientifique.
+J'ai ensuite intégré la spécialité "Télécommunications et Services" qui couvre des apprentissages variés autour des systèmes de communications, des réseaux, et de l'informatique en général.
 
-Ma formation est divisée également en 3 tiers:
-- systèmes de communication (traitement du signal, probabilités bayésiennes, OFDM)
-- réseaux (connaissances théoriques: Eternet 802.3, Wi-Fi 802.11, TCP/IP, IPv6, multicast, protocoles de routage, BGP, RIP, OSPF, MPLS, LAN, WAN, QoS, VoIP IPsec, 2G - GSM, 3G - UMTS, 4G - LTE, 5G, slicing, chaînes de Markov, théorie des files d'attentes) et (connaissances pratiques: TPs en salle réseau, routeurs Cisco, Wireshark, gns3)
-- informatique (connaissances théoriques: Algorithmes et structures de données, notation O, machine à état, liste chainées, hashmap, dijkstra, bellman-ford, A*, RPC, systèmes distribués, transactions, horloge de Lamport, Paxos, protocoles de consensus, Raft, peer-to-peer, scrapping, ELK, PageRank, blockchain)
+Particulièrement depuis quelques mois, je me suis intéressé aux problématiques Cloud / DevOps et c'est donc dans ce domaine que je cherche un stage de fin d'études.
 
 Mes passions:
 - la boxe 🥊
 - le japonais ㊗
 - la randonnée 🏔
 
-Passionnate about MATLAB simulation, complex systems, and japanese.
+Formations en cours:
+- Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
+- Docker & Kubernetes Mastery, par Bret Fisher sur Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
 
-<!-- ⚗ Je me forme actuellement sur différents sujets
+<!--
+⚗ Je me forme actuellement sur différents sujets
 - Provisionner des resources sur AWS avec **Terraform**
 - Déployer sur ces clusters des applications containerisées avec Docker, Compose, Swarm, Kubenetes
-- Automatiser la mise en production avec des pipelines CI/CD Gitlab -->
+- Automatiser la mise en production avec des pipelines CI/CD Gitlab
+
+Ma formation est divisée également en 3 tiers:
+- systèmes de communication (traitement du signal, probabilités bayésiennes, OFDM)
+- réseaux (connaissances théoriques: Eternet 802.3, Wi-Fi 802.11, TCP/IP, IPv6, multicast, protocoles de routage, BGP, RIP, OSPF, MPLS, LAN, WAN, QoS, VoIP IPsec, 2G - GSM, 3G - UMTS, 4G - LTE, 5G, slicing, chaînes de Markov, théorie des files d'attentes) et (connaissances pratiques: TPs en salle réseau, routeurs Cisco, Wireshark, gns3)
+- informatique (connaissances théoriques: Algorithmes et structures de données, notation O, machine à état, liste chainées, hashmap, dijkstra, bellman-ford, A*, RPC, systèmes distribués, transactions, horloge de Lamport, Paxos, protocoles de consensus, Raft, peer-to-peer, scrapping, ELK, PageRank, blockchain)
+-->
 
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
