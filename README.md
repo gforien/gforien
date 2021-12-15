@@ -11,7 +11,9 @@ Formations en cours:
 - Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
 - Docker & Kubernetes Mastery, par Bret Fisher sur Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
 
+*Seuls mes projets personnels et académiques sont présents sur cette page.<br>Mes projets professionnels ne sont évidemment pas disponibles publiquement*
 
+#### Statistiques GitHub
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
 
@@ -29,7 +31,7 @@ Formations en cours:
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=flightbeat)](https://github.com/gforien/flightbeat)
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=tcchat)](https://github.com/gforien/tcchat)
 
-#### Quelques projets scolaires
+#### Quelques projets académiques
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=os-from-scratch)](https://github.com/gforien/os-from-scratch)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=double-pendulum)](https://github.com/gforien/double-pendulum)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=rpc-generator)](https://github.com/gforien/rpc-generator)
