@@ -17,14 +17,14 @@ Source: *Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of 
 
 En particulier, je me suis récemment intéressé au métiers d'architecte cloud et d'administrateur système (aujourd'hui responsable Ops), pour répondre aux problématiques de passage au Cloud, de high-availability (HA), d'intégration et de déploiement continu (CI/CD).
 
+Formations en cours:
+- Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
+- Docker & Kubernetes Mastery, par Bret Fisher sur Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
+
 Mes passions:
 - la boxe 🥊
 - le japonais 🈳
 - la randonnée 🏔
-
-Formations en cours:
-- Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
-- Docker & Kubernetes Mastery, par Bret Fisher sur Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
 
 *Seuls mes projets personnels et académiques sont présents sur cette page.<br>Mes projets professionnels ne sont évidemment pas disponibles publiquement*
 
