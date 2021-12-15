@@ -4,7 +4,8 @@
 Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon, que j'ai intégré après un bac scientifique.<br>
 J'ai ensuite rejoint la spécialité "Télécommunications et Services" qui couvre des apprentissages variés autour des systèmes de communications, des réseaux, et de l'informatique en général.
 
-Particulièrement depuis quelques mois, je me suis intéressé aux problématiques Cloud / DevOps et c'est donc dans ce domaine que je cherche un stage de fin d'études.
+Particulièrement depuis quelques mois, je me suis intéressé aux problématiques Cloud / DevOps.
+C'est donc dans ce domaine que je cherche un stage de fin d'études.
 
 Mes passions:
 - la boxe 🥊
