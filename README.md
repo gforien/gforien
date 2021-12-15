@@ -42,8 +42,8 @@ Formations en cours:
 #### Quelques projets libres
 [![](https://github-readme-stats.vercel.app/api/pin?username=bluebox-insa&repo=bluebox)](https://github.com/bluebox-insa/bluebox)
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=inshape)](https://github.com/gforien/inshape)
-[![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=flightbeat)](https://github.com/gforien/flightbeat)
-[![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=tcchat)](https://github.com/gforien/tcchat)
+[![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=flightbeat)](https://github.com/gforien/flightbeat)
+[![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=tcchat)](https://github.com/gforien/tcchat)
 
 #### Quelques projets académiques
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=os-from-scratch)](https://github.com/gforien/os-from-scratch)
