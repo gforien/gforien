@@ -5,27 +5,43 @@ J'ai suivi la spécialité `Télécommunications et Services` qui couvre des ens
 
 
 <details>
-  <summary><b>systèmes de communication</b></summary>
-  
-  Exemple typique: Analyse des taux d'erreur binaires pour un décodeur, sur un canal de Rayleigh avec fading sélectif<br>
-  Source: *Sadough, Seyed & Duhamel, P. Duhamel (2007). On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect Channel State Information.*
-
+  <summary>
+    <b>systèmes de communication</b>
+  </summary>
+  <h2>Exemple type</h2>
+  <p>
+    Analyse des taux d'erreur binaires pour un certain décodeur, sur un canal de Rayleigh avec fading sélectif
+  </p>
   <img src="https://user-images.githubusercontent.com/7701186/146216539-64c2b105-f1b4-4362-98a2-49e06e7b14d8.png" style="width:500px">
+  <h6>
+    <i>Sadough, Seyed & Duhamel, P. Duhamel (2007).<br>On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect Channel State Information.</i>
+  </h6>
 </details>
 <details>
-  <summary><b>réseaux</b></summary>
-  
-  Exemple typique: Architecture du réseau 4G (LTE): utilisateur, réseau d'accès, et réseau coeur<br>
-  Source: *Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of Building Height Interference Dependence in UMTS.*
+  <summary>
+    <b>réseaux</b>
+  </summary>
+  <h2>Exemple type</h2>
+  <p>
+    Schéma d'architecture du réseau 3G UMTS avec utilisateur (UE), réseau d'accès (UTRAN) et réseau coeur (CN).
+  </p>
   <img src="https://user-images.githubusercontent.com/7701186/146220151-a1e9fd0d-f4a4-4e07-a380-6e23698e9c5b.png" style="width:500px">
+  <h6>
+    <i>Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of Building Height Interference Dependence in UMTS.</i>
+  </h6>
 </details>
- 
-- **informatique**<br>
-  Voir mes [projets académiques](https://github.com/gforien/gforien/blob/main/README.md#quelques-projets-acad%C3%A9miques) ci-dessous ⬇⬇
+<details>
+  <summary>
+    <b>informatique</b>
+  </summary>
+  <p>
+    Voir mes <a href="https://github.com/gforien/gforien/blob/main/README.md#quelques-projets-acad%C3%A9miques">projets académiques</a> ci-dessous ⬇⬇
+  </p>
+</details>
 
-Domaines privilégiés
-- Architecture Cloud, High-Availability (HA), FinOps
-- DevOps, Automatisation, Intégration et déploiement continu (CI/CD)
+Je recherche actuellement un stage de fin d'étude à partir de `janvier 2022`, en particulier dans un de ces domaines
+- Architecture Cloud, High-Availability (HA), FinOps, passage au Cloud
+- DevOps, Automatisation, Intégration et déploiement continu (CI/CD), passage à une architecture microservices/SOA
 
 Formations en cours:
 - Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
