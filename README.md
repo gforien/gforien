@@ -44,7 +44,7 @@ Je recherche actuellement un stage de fin d'étude à partir de `janvier 2022`, 
 - DevOps, Automatisation, Intégration et déploiement continu (CI/CD), passage à une architecture microservices/SOA
 
 J'aime être proactif dans mon travail, apprendre par moi-même et découvrir de nouveaux outils.<br>
-Je suis orienté résultats.
+Je suis orienté résultats 🎯.
 
 Formations en cours:
 - Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
