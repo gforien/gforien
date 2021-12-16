@@ -2,16 +2,24 @@
 
 Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
 J'ai suivi la spécialité `Télécommunications et Services` qui couvre des enseignement variés autour de 3 piliers:
-- **systèmes de communication**<br>
+
+
+<details>
+  <summary><b>systèmes de communication</b></summary>
+  
 Exemple typique: Analyse des taux d'erreur binaires pour un décodeur, sur un canal de Rayleigh avec fading sélectif<br>
 Source: *Sadough, Seyed & Duhamel, P. Duhamel (2007). On Optimal Turbo Decoding of Wideband MIMO-OFDM Systems Under Imperfect Channel State Information.*
 <img src="https://user-images.githubusercontent.com/7701186/146216539-64c2b105-f1b4-4362-98a2-49e06e7b14d8.png" style="width:500px">
-
-- **réseaux**<br>
+</details>
+<details>
+  <summary><b>réseaux</b></summary>
+  
 Exemple typique: Architecture du réseau 4G (LTE): utilisateur, réseau d'accès, et réseau coeur<br>
 Source: *Marques, Armando & Correia, Luis & Pires, Sergio. (2021). Modelling of Building Height Interference Dependence in UMTS.*
 <img src="https://user-images.githubusercontent.com/7701186/146220151-a1e9fd0d-f4a4-4e07-a380-6e23698e9c5b.png" style="width:500px">
 
+</details>
+ 
 - **informatique**<br>
   Voir mes [projets académiques](https://github.com/gforien/gforien/blob/main/README.md#quelques-projets-acad%C3%A9miques) ci-dessous ⬇⬇
 
