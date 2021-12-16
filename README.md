@@ -35,7 +35,7 @@ J'ai suivi la spécialité `Télécommunications et Services` qui couvre des ens
     <b>informatique</b>
   </summary>
   <p>
-    Voir mes <a href="https://github.com/gforien/gforien/blob/main/README.md#quelques-projets-acad%C3%A9miques">projets académiques</a> ci-dessous ⬇⬇
+    Voir mes <a href="#quelques-projets-acad%C3%A9miques">projets académiques</a> ci-dessous ⬇⬇
   </p>
 </details>
 
