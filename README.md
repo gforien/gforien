@@ -3,7 +3,6 @@
 Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
 J'ai suivi la spécialité `Télécommunications et Services` qui couvre des enseignement variés autour de 3 piliers:
 
-
 <details>
   <summary>
     <b>systèmes de communication</b>
@@ -54,6 +53,8 @@ Mes passions:
 - la boxe 🥊
 - le japonais 🈳
 - la randonnée 🏔
+
+[**📄 Voici mon CV**](CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
 *Seuls mes projets personnels et académiques sont présents sur cette page.<br>
 Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
