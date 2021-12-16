@@ -43,6 +43,9 @@ Je recherche actuellement un stage de fin d'étude à partir de `janvier 2022`, 
 - Architecture Cloud, High-Availability (HA), FinOps, passage au Cloud
 - DevOps, Automatisation, Intégration et déploiement continu (CI/CD), passage à une architecture microservices/SOA
 
+J'aime être proactif dans mon travail, apprendre par moi-même et découvrir de nouveaux outils.<br>
+Je suis orienté résultats.
+
 Formations en cours:
 - Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
 - Docker & Kubernetes Mastery, par Bret Fisher sur Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
@@ -52,7 +55,8 @@ Mes passions:
 - le japonais 🈳
 - la randonnée 🏔
 
-*Seuls mes projets personnels et académiques sont présents sur cette page.<br>Mes projets professionnels ne sont évidemment pas disponibles publiquement*
+*Seuls mes projets personnels et académiques sont présents sur cette page.<br>
+Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
 
 #### Statistiques GitHub
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
