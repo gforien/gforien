@@ -54,7 +54,7 @@ Mes passions:
 - le japonais 🈳
 - la randonnée 🏔
 
-[**📄 Voici mon CV**](CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
+### [📄 Télécharger mon CV](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
 *Seuls mes projets personnels et académiques sont présents sur cette page.<br>
 Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
