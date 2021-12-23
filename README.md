@@ -39,7 +39,7 @@ J'ai suivi la spécialité `Télécommunications et Services` qui couvre des ens
 </details>
 
 Je recherche actuellement un stage de fin d'étude à partir de `janvier 2022`, en particulier dans un de ces domaines
-- Architecture Cloud Public / Cloud hybride / Multicloud, High-Availability (HA), FinOps
+- Architecture Cloud public / Cloud hybride / Multicloud, High-Availability (HA), FinOps
 - DevOps, SRE, Architecture résilientes, Chaos Engineering, Architecture microservices/SOA
 
 J'aime être proactif dans mon travail, apprendre par moi-même et découvrir de nouveaux outils.<br>
