@@ -1,7 +1,10 @@
 <!-- See also https://stackoverflow.com/a/62383408/6402299 -->
 <p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" style="width:30px" align="center" href="#">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px" align="center" href="#">
+  <a href="#">
+    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" style="width:30px" align="center">
+  </a><a href="#">
+    <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px" align="center">
+  </a>
   <i><b>English speaker ? Please head over to the <a href="README__eng.md">english version</a></b></i>
 <p>
 
