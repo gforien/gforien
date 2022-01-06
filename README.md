@@ -6,7 +6,7 @@
     <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px" align="center">
   </a>
   <i><b>English speaker ? Please head over to the <a href="README__eng.md">english version</a></b></i>
-<p>
+</p>
 
   
 ### Bonjour 👋
