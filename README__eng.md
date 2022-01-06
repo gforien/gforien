@@ -55,7 +55,7 @@ My hobbies:
 - japanese language 🈳
 - hiking 🏔
 
-### 📄 Download my resume → [english](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf) / [french](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
+### 📄 Download my resume → [english](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps__ENG_.pdf) / [french](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
 
 *Only my personnal and academic projects are listed below.<br>
