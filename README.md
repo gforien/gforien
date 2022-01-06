@@ -1,4 +1,12 @@
-#### *Speak English 🇬🇧 🇺🇸 ? Please head over to the [english version](README.eng.md)*
+
+<div><div style="margin: 0 auto; height:100px">
+<p>
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" style="width:30px">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px">
+  <i>English speaker ? Please head over to the <a href="README.eng.md">english version</a></i>
+<p>
+</div></div>
+
 
 ### Bonjour 👋
 
