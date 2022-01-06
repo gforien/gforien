@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name's Gabriel Forien, I'm a French last-year student at INSA Lyon<br>
-I have a Master's degree in `Information Technology`, but this degree covers various classes at INSA:
+I have a Master's degree in `Information Technology`, and this degree covers various classes at INSA:
 
 <details>
   <summary>
