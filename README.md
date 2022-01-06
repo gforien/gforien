@@ -1,13 +1,11 @@
-
-<div><div style="margin: 0 auto; height:100px">
+<!-- See also https://stackoverflow.com/a/62383408/6402299 -->
+<p align="center">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" style="width:30px" align="center">
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px" align="center">
+  <i><b>English speaker ? Please head over to the <a href="README.eng.md">english version</a></b></i>
 <p>
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" style="width:30px">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px">
-  <i>English speaker ? Please head over to the <a href="README.eng.md">english version</a></i>
-<p>
-</div></div>
 
-
+  
 ### Bonjour 👋
 
 Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
