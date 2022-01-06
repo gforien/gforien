@@ -57,14 +57,14 @@ My hobbies:
 
 ### 📄 Download my resume → [english](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf) / [french](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
-*Seuls mes projets personnels et académiques sont présents sur cette page.<br>
-Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
+*Only my personnal and academic projects are listed below.<br>
+Professional projects on which I worked are not available publicly.*
 
-#### Statistiques GitHub
+#### GitHub stats
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
 
-#### Quelques projets Cloud/DevOps
+#### A few Cloud/DevOps projects
 [![](https://github-readme-stats.vercel.app/api/pin?&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&username=gforien&repo=reddit-assignment)](https://github.com/gforien/reddit-assignment)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=terraform-full-ec2)](https://github.com/gforien/terraform-full-ec2)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=create-aws-website)](https://github.com/gforien/create-aws-website)
@@ -72,11 +72,11 @@ Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponi
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=docker-nginx-reverse-proxy)](https://github.com/gforien/docker-nginx-reverse-proxy)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=gruvbox_light&username=gforien&repo=docker-voting-app)](https://github.com/gforien/docker-voting-app)
 
-#### Quelques projets libres
+#### A few side-projects
 [![](https://github-readme-stats.vercel.app/api/pin?username=bluebox-insa&repo=bluebox)](https://github.com/bluebox-insa/bluebox)
 [![](https://github-readme-stats.vercel.app/api/pin?username=gforien&repo=inshape)](https://github.com/gforien/inshape)
 
-#### Quelques projets académiques
+#### A few academic projects
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=flightbeat)](https://github.com/gforien/flightbeat)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=tcchat)](https://github.com/gforien/tcchat)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=os-from-scratch)](https://github.com/gforien/os-from-scratch)
