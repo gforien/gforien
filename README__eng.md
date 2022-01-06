@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name's Gabriel Forien, I'm a french last-year student at INSA Lyon<br>
-I took `Information Technology` classes at INSA Lyon, which covers various classes about:
+My name's Gabriel Forien, I'm a French last-year student at INSA Lyon<br>
+I have a master's degree in `Information Technology`, which covers various classes at INSA:
 
 <details>
   <summary>
@@ -31,7 +31,7 @@ I took `Information Technology` classes at INSA Lyon, which covers various class
 </details>
 <details>
   <summary>
-    <b>computer science</b>
+    <b>information technology</b>
   </summary>
   <p>
     See my <a href="#quelques-projets-acad%C3%A9miques">academic projects</a> below ⬇⬇
