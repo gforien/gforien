@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" style="width:30px" align="center">
   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-states_1f1fa-1f1f8.png"  style="width:30px" align="center">
-  <i><b>English speaker ? Please head over to the <a href="README.eng.md">english version</a></b></i>
+  <i><b>English speaker ? Please head over to the <a href="README__eng.md">english version</a></b></i>
 <p>
 
   
@@ -64,6 +64,7 @@ Mes passions:
 - la randonnée 🏔
 
 ### [📄 Télécharger mon CV](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
+### [📄 Télécharger mon CV en anglais](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
 *Seuls mes projets personnels et académiques sont présents sur cette page.<br>
 Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
