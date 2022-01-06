@@ -1,5 +1,7 @@
 ### Bonjour 👋
 
+### *Speak English 🇬🇧 🇺🇸 ? Please head over to the [english version](README_eng.md)*
+
 Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
 J'ai suivi la spécialité `Télécommunications et Services` qui couvre des enseignement variés autour de 3 piliers:
 
