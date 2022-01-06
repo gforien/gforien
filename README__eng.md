@@ -40,22 +40,22 @@ I took `Information Technology` classes at INSA Lyon, which covers various class
 
 ---
 I'm currently looking for an intership starting from `january 2022`, particularly in
-- Architecture Cloud public / Cloud hybride / Multicloud, High-Availability (HA), FinOps
-- DevOps, SRE, Architecture résilientes, Chaos Engineering, Architecture microservices/SOA
+- Public cloud architectures / hybrid cloud / multicloud, high-availability architectures (HA), FinOps
+- DevOps, SRE, fault-tolerant systems, chaos engineering, microservices architectures/SOA
 
 J'aime être proactif dans mon travail, apprendre par moi-même et découvrir de nouveaux outils.<br>
 Je suis orienté résultats 🎯.
 
-Formations en cours:
-- Certification AWS CLF-C01, par freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
-- Docker & Kubernetes Mastery, par Bret Fisher sur Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
+Currenly learning:
+- AWS CLF-C01 certification, by freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
+- Docker & Kubernetes Mastery, by Bret Fisher on Udemy ([lien](https://www.udemy.com/course/docker-mastery/))
 
-Mes passions:
-- la boxe 🥊
-- le japonais 🈳
-- la randonnée 🏔
+My hobbies:
+- savate french boxing 🥊
+- japanese language 🈳
+- hiking 🏔
 
-### [📄 Télécharger mon CV](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
+### 📄 Download my resume → [english](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf) / [french](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
 *Seuls mes projets personnels et académiques sont présents sur cette page.<br>
 Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
