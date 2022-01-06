@@ -1,17 +1,15 @@
-#### *Speak English 🇬🇧 🇺🇸 ? Please head over to the [english version](README.eng.md)*
+### Hi there 👋
 
-### Bonjour 👋
-
-Je m'appelle Gabriel Forien, je suis étudiant en dernière année à l'INSA Lyon.<br>
-J'ai suivi la spécialité `Télécommunications et Services` qui couvre des enseignement variés autour de 3 piliers:
+My name's Gabriel Forien, I'm a french last-year student at INSA Lyon<br>
+I took `Information Technology` classes at INSA Lyon, which covers various classes about:
 
 <details>
   <summary>
-    <b>systèmes de communication</b>
+    <b>syscom</b>
   </summary>
-  <h2>Exemple type</h2>
+  <h2>Exemple</h2>
   <p>
-    Analyse des taux d'erreur binaires pour un certain décodeur, sur un canal de Rayleigh avec fading sélectif
+    Analysis of binary error rates (BER) for a specific decoder, on a Rayleigh channel with selective fading.
   </p>
   <img src="https://user-images.githubusercontent.com/7701186/146216539-64c2b105-f1b4-4362-98a2-49e06e7b14d8.png" style="width:500px">
   <h6>
@@ -20,11 +18,11 @@ J'ai suivi la spécialité `Télécommunications et Services` qui couvre des ens
 </details>
 <details>
   <summary>
-    <b>réseaux</b>
+    <b>computer networks / cellular networks</b>
   </summary>
-  <h2>Exemple type</h2>
+  <h2>Exemple</h2>
   <p>
-    Schéma d'architecture du réseau 3G UMTS avec utilisateur (UE), réseau d'accès (UTRAN) et réseau coeur (CN).
+    Architecture diagram of 3G UMTS network, showing the user (UE), radio access network (UTRAN) and core network (CN).
   </p>
   <img src="https://user-images.githubusercontent.com/7701186/146220151-a1e9fd0d-f4a4-4e07-a380-6e23698e9c5b.png" style="width:500px">
   <h6>
@@ -33,15 +31,15 @@ J'ai suivi la spécialité `Télécommunications et Services` qui couvre des ens
 </details>
 <details>
   <summary>
-    <b>informatique</b>
+    <b>computer science</b>
   </summary>
   <p>
-    Voir mes <a href="#quelques-projets-acad%C3%A9miques">projets académiques</a> ci-dessous ⬇⬇
+    See my <a href="#quelques-projets-acad%C3%A9miques">academic projects</a> below ⬇⬇
   </p>
 </details>
 
 ---
-Je recherche actuellement un stage de fin d'étude à partir de `janvier 2022`, en particulier dans un de ces domaines
+I'm currently looking for an intership starting from `january 2022`, particularly in
 - Architecture Cloud public / Cloud hybride / Multicloud, High-Availability (HA), FinOps
 - DevOps, SRE, Architecture résilientes, Chaos Engineering, Architecture microservices/SOA
 
