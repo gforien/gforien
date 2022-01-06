@@ -43,8 +43,8 @@ I'm currently looking for an intership starting from `january 2022`, particularl
 - Public cloud architectures / hybrid cloud / multicloud, high-availability architectures (HA), FinOps
 - DevOps, SRE, fault-tolerant systems, chaos engineering, microservices architectures/SOA
 
-J'aime être proactif dans mon travail, apprendre par moi-même et découvrir de nouveaux outils.<br>
-Je suis orienté résultats 🎯.
+I like to be proactive, to learn by myself and to discover new tools.<br>
+I am results-oriented 🎯.
 
 Currenly learning:
 - AWS CLF-C01 certification, by freeCodeCamp ([lien](https://youtu.be/3hLmDS179YE))
@@ -57,8 +57,14 @@ My hobbies:
 
 ### 📄 Download my resume → [english](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf) / [french](https://github.com/gforien/gforien/raw/main/CV_Gabriel_FORIEN_2021_12__DevOps_.pdf)
 
+
 *Only my personnal and academic projects are listed below.<br>
 Professional projects on which I worked are not available publicly.*
+
+*NB: I apply to France-based jobs and international jobs.<br>
+Even if one writes code and comments solely in English, documentation and READMEs sometimes have to be written in French.<br>
+Therefore, I have to display both. Some project READMEs are written in English (like [this one](https://github.com/gforien/docker-nginx-reverse-proxy)),
+and others in French (like [this one](https://github.com/gforien/azure-cicd-pipeline)).*
 
 #### GitHub stats
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
