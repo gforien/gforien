@@ -45,7 +45,8 @@ J'ai suivi la spécialité `Télécommunications et Services` qui couvre des ens
     <b>informatique</b>
   </summary>
   <p>
-    Voir mes <a href="#quelques-projets-acad%C3%A9miques">projets académiques</a> ci-dessous ⬇⬇
+    <!--  Voir mes <a href="#quelques-projets-acad%C3%A9miques">projets académiques</a> ci-dessous ⬇⬇ -->
+    Voir mes projets académiques ci-dessous ⬇⬇
   </p>
 </details>
 
@@ -70,7 +71,7 @@ Mes passions:
 
 *Seuls mes projets personnels et académiques sont présents sur cette page.<br>
 Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponibles publiquement.*
-
+<!--
 #### Statistiques GitHub
 [![](https://github-readme-stats.vercel.app/api?username=gforien&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/gforien)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=gforien&layout=compact&hide=html,css,php,gdb&langs_count=10&hide_title=true&card_width=250)](https://github.com/gforien)
@@ -94,7 +95,7 @@ Les projets sur lesquels j'ai travaillé professionnellement ne sont pas disponi
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=double-pendulum)](https://github.com/gforien/double-pendulum)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=rpc-generator)](https://github.com/gforien/rpc-generator)
 [![](https://github-readme-stats.vercel.app/api/pin?theme=graywhite&username=gforien&repo=tgv-over-udp)](https://github.com/gforien/tgv-over-udp)
-
+-->
 
 <!--
 ![](https://www.researchgate.net/profile/Nariman-Farsad/publication/259457178/figure/fig15/AS:669706377777171@1536681851883/Block-diagram-of-a-typical-communication-system-doi101371-journalpone0082935g001.png)
