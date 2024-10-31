@@ -21,4 +21,4 @@ You can find me at
 - 📫 Reach out: gforien-at-gmail-dot-com
 - 🗣️ Speaking: French (native), English, Japanese (intermediate)
 
-Here's a joke: *"MongoDB is web scale"*
+*"MongoDB is web scale"*
