@@ -12,7 +12,7 @@ Here’s a snapshot of my main tools and languages:
 - 💻 **Environment:** kitty, tmux, fzf, zsh, nvim
 
 Current side-projects
-- 🎳 Client-side Golang portfolio with WASM+WebContainers
+- 🎳 Client-side wasm golang portfolio 
 - 🎳 Gitea server
 - ✅ Archlinux Wayland VM for macOS with QEMU
 
